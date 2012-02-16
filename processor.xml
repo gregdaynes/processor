@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="system">
+	<name>System - Processor</name>
+	<author>jEvolve</author>
+	<creationDate>Octover 2010</creationDate>
+	<copyright>(C) 2010 JEvolve.net. All rights reserved.</copyright>
+	<license>GNU/GPL</license>
+	<authorEmail>info@jevolve.net</authorEmail>
+	<authorUrl>www.jevolve.net</authorUrl>
+	<version>1.0</version>
+	<description>PLG_PROCESSOR_DESC</description>
+	<files>
+		<filename plugin="processor">processor.php</filename>
+		<filename>processor.xml</filename>
+	</files>
+</extension>
